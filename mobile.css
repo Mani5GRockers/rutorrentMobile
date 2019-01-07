@@ -40,7 +40,7 @@ a:hover, a:focus {
 }
 #mainContainer {
   background-color: #fff;
-  padding: 45px 3px 71px 3px;
+  padding: 45px 3px 86px 3px;
   margin: 0;
 }
 .progress .progress-bar {
@@ -70,10 +70,10 @@ h5, #detailsTrackersPage a, #detailsFilesPage a, #detailsDetailsPage #label td, 
 .navbar .nav > li > a, .navbar .nav > li > a:hover, .navbar .nav > li > a:focus {
   display: table-cell;
   vertical-align: middle;
-  padding: 0px 0px 15px 0px;
+  padding: 0px 0px 20px 0px;
   font-size: 20px;
   background-color: transparent;
-  height: 70px;
+  height: 85px;
 }
 .navbar .nav > li > div > span {
   position: relative;
@@ -82,12 +82,12 @@ h5, #detailsTrackersPage a, #detailsFilesPage a, #detailsDetailsPage #label td, 
   line-height: 0;
 }
 .navbar .nav > li > div > i {
-  margin-top: 7px;
+  margin-top: 10px;
   margin-right: 2px;
   font-size: 17px;
 }
 .navbar .divider-vertical {
-  height: 70px;
+  height: 85px;
   margin: 0 15px 0 0;
   border-right: 1px solid #323232;
   border-left: 1px solid #111111;
